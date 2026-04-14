@@ -199,7 +199,7 @@
     'use strict';
     if (window.top !== window.self) {return;};
     const config = {
-        time: 10,
+        time: 20,
         key: '',
         safeMode: true
     };
@@ -272,7 +272,7 @@
 
     function isValidUrl(url) {
         try {
-            new URL(url);
+            new URL(url);https://ads.luarmor.net/get_key?for=Speed_Hub_X_Linkvertise-jOqPFgJvjYNe
             return true;
         } catch {
             return false;
