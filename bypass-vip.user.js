@@ -199,7 +199,7 @@
     'use strict';
     if (window.top !== window.self) {return;};
     const config = {
-        time: 10,
+        time: 20,
         key: '',
         safeMode: true
     };
